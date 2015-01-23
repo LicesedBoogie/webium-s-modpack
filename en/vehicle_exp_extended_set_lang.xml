@@ -1,0 +1,31 @@
+<vehicle_exp_extended_set_lang.xml>
+	<other_language>
+		<comments>	avaliable macros: {tank-name}, {need-exp}, {need-module-exp}, {chk-exp}, {cur-tank-exp}, {battles-left}, on string1 =  19 characters (only TEXT), on string2 =  40 characters (Support HTML) 	</comments>
+		<modules>
+			<string1>{tank-name}</string1>
+			<string2><![CDATA[<img align="top" src="img://gui/maps//icons/buttons/removeGold.png" height="15" width="13" vspace="-2"> <font color="#00FF00">{chk-exp}</font><img align="top" src="img://gui/maps//icons/library/XpIcon-1.png" height="16" width="16" vspace="-3"> of  <font color="#8378FC">{need-module-exp}</font><img align="top" src="img://gui/maps//icons/library/XpIcon-1.png" height="16" width="16" vspace="-3"> (~{battles-left}<img align="top" src="img://gui/maps//icons/library/BattleResultIcon-1.png" height="14" width="14" vspace="-3">)]]></string2>
+			<ready_string1>{tank-name}</ready_string1>
+			<ready_string2><![CDATA[<img align="top" src="img://gui/maps//icons/buttons/removeGold.png" height="16" width="14" vspace="-2"> <font color="#00FF00">Module research available!</font>]]></ready_string2>
+		</modules>
+		<elite_status>
+			<string1>{tank-name}</string1>
+			<string2><![CDATA[<img align="top" src="img://gui/maps//icons/library/EliteXpIcon-2.png" height="16" width="16" vspace="-3"> <font color="#00FF00">{chk-exp}</font><img align="top" src="img://gui/maps//icons/library/XpIcon-1.png" height="16" width="16" vspace="-3"> of  <font color="#8378FC">{need-exp}</font><img align="top" src="img://gui/maps//icons/library/XpIcon-1.png" height="16" width="16" vspace="-3"> (~{battles-left}<img align="top" src="img://gui/maps//icons/library/BattleResultIcon-1.png" height="14" width="14" vspace="-3">)]]></string2>
+			<ready_string1>{tank-name}</ready_string1>
+			<ready_string2><![CDATA[<img align="top" src="img://gui/maps//icons/library/EliteXpIcon-2.png" height="16" width="16" vspace="-3"> <font color="#00FF00">Elite status available!</font>]]></ready_string2>
+		</elite_status>
+		<next_tanks>
+			<string1>{tank-name}</string1>
+			<string2><![CDATA[<img align="top" src="img://gui/maps//icons/library/UnlockPrice.png" height="16" width="16" vspace="-2"> <font color="#00FF00">{chk-exp}</font><img align="top" src="img://gui/maps//icons/library/XpIcon-1.png" height="16" width="16" vspace="-3"> of  <font color="#8378FC">{need-exp}</font><img align="top" src="img://gui/maps//icons/library/XpIcon-1.png" height="16" width="16" vspace="-3"> (~{battles-left}<img align="top" src="img://gui/maps//icons/library/BattleResultIcon-1.png" height="14" width="14" vspace="-3">)]]></string2>
+			<ready_string1>{tank-name}</ready_string1>
+			<ready_string2><![CDATA[<img align="top" src="img://gui/maps//icons/library/UnlockPrice.png" height="16" width="16" vspace="-2"> <font color="#00FF00">Research available!</font>]]></ready_string2>
+		</next_tanks>
+		<setup>
+			<hot_keys_title>Hot keys</hot_keys_title>
+			<quest_title><![CDATA[<b><font color="#FFE041">Personal Missions</font></b>]]></quest_title>
+			<quest_number>Mission #</quest_number>
+			<mod_potapych_hard><![CDATA[<font color="#8378FC">Primary and secondary</font>]]></mod_potapych_hard>
+			<mod_potapych_normal><![CDATA[<font color="#80D639">Primary</font>]]></mod_potapych_normal>
+			<mod_potapych_title>Conditions</mod_potapych_title>
+		</setup>
+	</other_language>
+</vehicle_exp_extended_set_lang.xml>
