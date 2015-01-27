@@ -1,0 +1,204 @@
+﻿{
+    "showStatForBattle": true,
+    "battleStatPatterns": [
+        {
+            "pattern": "(Crediti: )<font color='#C5CFCF'>[\\d ]+",
+            "repl": "\\1<font color='{{c:credits}}'>{{credits}}"
+        },
+        {
+            "pattern": "(Posizione media: )<font color='#C8C8B5'>([\\d ]+)",
+            "repl": "\\1<font color='{{g:medPlace}}'>\\2"
+        },
+		{
+            "if": "{{avgXP}} != {{tmenXP}}",
+            "pattern": "(Posizione media:.*)",
+            "repl": "\\1\n<font color='#929290'>Crew: <font color='{{g:medPlace}}'>{{tmenXP}}</font></font>"
+        },
+        {
+            "pattern": " per la prima vittoria del giorno",
+            "repl": ""
+        },
+        {
+            "pattern": "Достижения в бою",
+            "repl": "Достижения"
+        },
+        {
+            "pattern": "(\\d) степень",
+            "repl": "\\1 ст."
+        }
+    ],
+    "battleStatText": [
+        "<font color='#a09c94'>WN8: <font color='{{g:XWN8}}'><b>{{WN8}} ({{XWN8}})</b></font></font>\n<font color='#a09c94'>WN6: <font color='{{g:WN6}}'><b>{{WN6}} ({{XWN6}})</b></font></font>\n<font color='#a09c94'>EFF:  <font color='{{g:EFF}}'><b>{{EFF}} ({{XEFF}})</b></font></font>"
+	],
+    "overwriteBattleResultBgIcon": false,
+    "bgIconDefeat": "../../scripts/client/mods/Defeat.png",
+    "bgIconDraw": "../../scripts/client/mods/Draw.png",
+    "bgIconWin": "../../scripts/client/mods/Win.png",
+    "hideMessagePatterns": [
+        "successfully trained",
+        "successfully transferred",
+        "sent to the Barracks",
+        "You have not changed your password",
+		"Your registration password is not strong",
+		"to the World of Tanks server",
+        "The consumables on",
+        "The ammunition on",
+        "Screenshot saved to",
+		"Total spent on ammunition",
+		" repaired. You have spent credits:",
+        "repaired successfully"
+    ],
+    "debugBattleResultMessage": false,
+    "onlineReloadConfig": true,
+    "ignoreBattleType": [2, 4, 7, 8],
+    "showResetButton": false,
+    "textResetButton": "Reset",
+    "dailyAutoReset": true,
+    "dailyAutoResetHour": 4,
+    "enableBattleEndedMessage": true,
+    "battleEndedMessageDefeat": "<font color='#FE0E00'>La battaglia {{map}} - {{vehicle}} e' terminata con la sconfitta.</font>",
+    "battleEndedMessageDraw": "<font color='#FE7903'>La battaglia {{map}} - {{vehicle}} e' terminata in pareggio.</font>",
+    "battleEndedMessageWin": "<font color='#60FF00'>La battaglia {{map}} - {{vehicle}} e' terminata con la vittoria!</font>",
+    "bgIcon": "",
+    "template": [
+	"<textformat tabstops='[49, 96, 139, 185]' leading='3'><font size='15' color='#a09c94'>WN8<tab>WN6<tab>  EFF<tab>   <b>%</b><tab>  T</font></textformat>",
+	"<textformat tabstops='[49, 96, 139, 185]' leading='3'><font size='14' color='#a09c94'><font color='{{g:XWN8}}'>{{WN8}}</font><tab><font color='{{g:WN6}}'>{{WN6}}</font><tab><font color='{{g:EFF}}'>{{EFF}}</font><tab><font color='{{c:avgWinRate}}'>{{avgWinRate}}</font><tab><font color='#FFCC66'>{{avgTier}}</font></font></textformat>",
+	"<textformat tabstops='[49, 96, 139, 185]' leading='3'><font size='14'><font color='{{g:XWN8}}'>{{XWN8}}</font><tab><font color='{{g:XWN6}}'>{{XWN6}}</font><tab><font color='{{g:XEFF}}'>{{XEFF}}</font><tab>{{winsCount}} / {{battlesCount}}<tab><font color='#FFCC66'>+{{avgBattleTierDiff}}</font></font></textformat>",	
+	"",
+	"<textformat leading='-1' tabstops='[65,130,190]'><font color='#FFCC66'>Rateo di vittoria:</font><tab><font color='{{g:rWIN}}'><b>{{winsCount}}/{{battlesCount}}<tab>{{avgWinRate}}%<tab>{{rWIN}}</b></font>",
+        "<font color='#FFCC66'>Danni:</font><tab><font color='{{g:rDAMAGE}}'><b>{{totalDmg}}<tab>{{avgDamage}}<tab>{{rDAMAGE}}</b></font>",
+        "<font color='#FFCC66'>Uccisioni:</font><tab><font color='{{g:rFRAG}}'><b>{{totalFrag}}<tab>{{avgFrag}}<tab>{{rFRAG}}</b></font>",
+        "<font color='#FFCC66'>Individuazione:</font><tab><font color='{{g:rSPOT}}'><b>{{totalSpot}}<tab>{{avgSpot}}<tab>{{rSPOT}}</b></font>",
+        "<font color='#FFCC66'>Difesa:</font><tab><font color='{{g:rDEF}}'><b>{{totalDef}}<tab>{{avgDef}}<tab>{{rDEF}}</b></font>",
+        "<font color='#FFCC66'>Esperienza:</font><tab><font color='{{g:avgXP}}'><b>{{totalXP}}<tab>{{avgOriginalXP}}<tab>{{totalFreeXP}}</b></font>",
+        "<font color='#FFCC66'>Crediti:</font><tab><font color='{{c:credits}}'><b>{{credits}} <img src='img://gui/maps/icons/library/CreditsIcon-1.png' width='11' height='11' align='baseline' vspace='-2'><tab>{{avgCredits}} <img src='img://gui/maps/icons/library/CreditsIcon-1.png' width='11' height='11' align='baseline' vspace='-2'></b></font>",
+	"</textformat>"
+	
+	],
+    "showStatByTank": true,
+    "textGeneralPageButton": "By Tanks",
+    "textByTankPageButton": "General",
+    "byTankTitle": "<font size='13' color='#FFCC66'><textformat leading='-4' tabstops='[70,115,160]'>Tank<tab>Wins<tab>DMG<tab>WN8</textformat></font><hr>",
+    "byTankRow": "<font size='12'><textformat leading='-4' tabstops='[70,115,160]'><font color='#FFE6B3'>{{vehicle}}</font><tab><font color='{{g:rWIN}}'>{{winsCount}}/{{battlesCount}}</font><tab><font color='{{g:rDAMAGE}}'>{{avgDamage}}</font><tab><font color='{{g:XWN8}}'>{{WN8}} ({{XWN8}})</font></textformat></font>",
+    "gradient": {
+        "XWN8": [
+            {"value": 8, "color": "#FE0E00"},
+            {"value": 25, "color": "#FE7903"},
+            {"value": 43, "color": "#F8F400"},
+            {"value": 64, "color": "#60FF00"},
+            {"value": 84, "color": "#02C9B3"},
+            {"value": 96.5, "color": "#D042F3"}
+        ],
+		"WN6": [
+            {"value": 0, 	"color": "#FE0E00"},
+            {"value": 409, 	"color": "#FE0E00"},
+            {"value": 410, 	"color": "#FE7903"},
+            {"value": 794, 	"color": "#FE7903"},
+            {"value": 795, 	"color": "#F8F400"},
+            {"value": 1184,	"color": "#F8F400"},
+            {"value": 1185,	"color": "#60FF00"},
+            {"value": 1584,	"color": "#60FF00"},
+            {"value": 1585,	"color": "#02C9B3"},
+            {"value": 1924,	"color": "#02C9B3"},
+            {"value": 1925,	"color": "#D042F3"},
+            {"value": 9999,	"color": "#D042F3"}
+        ],
+		"XWN6": [
+            {"value": 0, 	"color": "#FE0E00"},
+            {"value": 16, 	"color": "#FE0E00"},
+            {"value": 17, 	"color": "#FE7903"},
+            {"value": 33, 	"color": "#FE7903"},
+            {"value": 34, 	"color": "#F8F400"},
+            {"value": 52,	"color": "#F8F400"},
+            {"value": 53,	"color": "#60FF00"},
+            {"value": 75,	"color": "#60FF00"},
+            {"value": 76,	"color": "#02C9B3"},
+            {"value": 92,	"color": "#02C9B3"},
+            {"value": 93,	"color": "#D042F3"},
+            {"value": 9999,	"color": "#D042F3"}
+        ],
+		"EFF": [
+            {"value": 0, 	"color": "#FE0E00"},
+            {"value": 609, 	"color": "#FE0E00"},
+            {"value": 610, 	"color": "#FE7903"},
+            {"value": 849, 	"color": "#FE7903"},
+            {"value": 850, 	"color": "#F8F400"},
+            {"value": 1144,	"color": "#F8F400"},
+            {"value": 1145,	"color": "#60FF00"},
+            {"value": 1474,	"color": "#60FF00"},
+            {"value": 1475,	"color": "#02C9B3"},
+            {"value": 1774,	"color": "#02C9B3"},
+            {"value": 1775,	"color": "#D042F3"},
+            {"value": 9999,	"color": "#D042F3"}
+        ],
+		"XEFF": [
+            {"value": 0, 	"color": "#FE0E00"},
+            {"value": 16, 	"color": "#FE0E00"},
+            {"value": 17, 	"color": "#FE7903"},
+            {"value": 33, 	"color": "#FE7903"},
+            {"value": 34, 	"color": "#F8F400"},
+            {"value": 52,	"color": "#F8F400"},
+            {"value": 53,	"color": "#60FF00"},
+            {"value": 75,	"color": "#60FF00"},
+            {"value": 76,	"color": "#02C9B3"},
+            {"value": 92,	"color": "#02C9B3"},
+            {"value": 93,	"color": "#D042F3"},
+            {"value": 9999,	"color": "#D042F3"}
+        ],
+        "rWIN": [
+            {"value": 0.13, "color": "#FE0E00"},
+            {"value": 0.44, "color": "#FE7903"},
+            {"value": 0.75, "color": "#F8F400"},
+            {"value": 1.06, "color": "#60FF00"},
+            {"value": 1.33, "color": "#02C9B3"},
+            {"value": 1.58, "color": "#D042F3"}
+        ],
+        "rDAMAGE": [
+            {"value": 0.13, "color": "#FE0E00"},
+            {"value": 0.44, "color": "#FE7903"},
+            {"value": 0.75, "color": "#F8F400"},
+            {"value": 1.06, "color": "#60FF00"},
+            {"value": 1.33, "color": "#02C9B3"},
+            {"value": 1.58, "color": "#D042F3"}
+        ],
+        "rFRAG": [
+            {"value": 0.13, "color": "#FE0E00"},
+            {"value": 0.44, "color": "#FE7903"},
+            {"value": 0.75, "color": "#F8F400"},
+            {"value": 1.06, "color": "#60FF00"},
+            {"value": 1.33, "color": "#02C9B3"},
+            {"value": 1.58, "color": "#D042F3"}
+        ],
+        "rSPOT": [
+            {"value": 0.13, "color": "#FE0E00"},
+            {"value": 0.44, "color": "#FE7903"},
+            {"value": 0.75, "color": "#F8F400"},
+            {"value": 1.06, "color": "#60FF00"},
+            {"value": 1.33, "color": "#02C9B3"},
+            {"value": 1.58, "color": "#D042F3"}
+        ],
+        "rDEF": [
+            {"value": 0.13, "color": "#FE0E00"},
+            {"value": 0.44, "color": "#FE7903"},
+            {"value": 0.75, "color": "#F8F400"},
+            {"value": 1.06, "color": "#60FF00"},
+            {"value": 1.33, "color": "#02C9B3"},
+            {"value": 1.58, "color": "#D042F3"}
+        ],
+        "medPlace": [
+            {"value": 1, "color": "#D042F3"},
+            {"value": 3, "color": "#02C9B3"},
+            {"value": 5, "color": "#60FF00"},
+            {"value": 7, "color": "#F8F400"},
+            {"value": 10, "color": "#FE7903"},
+            {"value": 15, "color": "#FE0E00"}
+        ]
+    },
+    "palette" : {
+        "credits": [
+            {"value": -1, "color": "#FE0E00"},
+            {"value": 0, "color": "#FFFFFF"},
+            {"value": 1, "color": "#60FF00"}
+        ]
+    }
+}
