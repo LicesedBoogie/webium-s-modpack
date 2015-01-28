@@ -1,3 +1,4 @@
+;prettyfly_germany
 ;Mods
 nl.CleanInstall=Volledige Installatie !Aanbevolen!
 nl.CleanInstallDesc=Volledige Installatie !Aanbevolen! (Wissen \res_mods\0.9.x content)
@@ -48,7 +49,7 @@ nl.SixthSenseDesc=Sixth Sense
 nl.OldWebiumIcon=Oude webium's pictogram
 nl.OldWebiumIconDesc=Oude Sixth Sense pictogram (een roze bom in een cirkel met de tekst WARNING)
 
-nl.Mwm=Nieuw webium’s pictogram
+nl.Mwm=Nieuw webiumâ€™s pictogram
 nl.MwmDesc=Pictogram met mywotmods.com logo en de tekst WARNING
 
 nl.Skull=Schedel pictogram
@@ -88,13 +89,13 @@ nl.ZayazCrossDesc=Zayaz's vizier
 nl.ShtysCross=Shtys Vizier
 nl.ShtysCrossDesc=Shtys vizier
 
-nl.DeegieCross=Deegie’s Zicht
+nl.DeegieCross=Deegieâ€™s Zicht
 nl.DeegieCrossDesc=Deegie's zicht
 
-nl.MeltyCross=MeltyMap’s MathMod
+nl.MeltyCross=MeltyMapâ€™s MathMod
 nl.MeltyCrossDesc=MeltyMap's MathMod
 
-nl.MeltyCrossGreen=MeltyMap’s groen
+nl.MeltyCrossGreen=MeltyMapâ€™s groen
 nl.MeltyCrossGreenDesc=MeltyMap's MathMod in het groen
 
 nl.Hardscope=Viseren
@@ -311,8 +312,8 @@ nl.BatCaveDesc=Tech Hangar - Bat Cave (DL)
 nl.HellMinimal=Hel Minimale Hangar Mod (DL)
 nl.HellMinimalDesc=Hel Minimale Hangar Mod
 
-nl.AugAsia=15 Augustus (Azië) (DL)
-nl.AugAsiaDesc=15 Augustus (Azië) (DL)
+nl.AugAsia=15 Augustus (AziÃ«) (DL)
+nl.AugAsiaDesc=15 Augustus (AziÃ«) (DL)
 
 nl.ChineseNATDay=Chinese nationale dag (DL)
 nl.ChineseNATDayDesc=Chinese nationale dag (DL)
@@ -323,8 +324,8 @@ nl.MikuDesc=Unieke omgeving (futuristisch met een groot platform in het midden v
 nl.FemaleCrew=Vrouwelijke bemanning (DL)
 nl.FemaleCrewDesc=Vrouwelijke bemanning (DL)
 
-nl.RecoVertical=ReCo’s Verticale Tech Tree
-nl.RecoVerticalDesc=ReCo’s Verticale Tech Tree
+nl.RecoVertical=ReCoâ€™s Verticale Tech Tree
+nl.RecoVerticalDesc=ReCoâ€™s Verticale Tech Tree
 
 nl.WebiumGolden=Gouden Premium tanks
 nl.WebiumGoldenDesc=Gouden pictogrammen van de Premium tanks (in carrousel)
@@ -381,7 +382,7 @@ nl.lang=nederlands
 nl.visitweb=Bezoek Mywotmods.com
 
 nl.detected=Gedetecteerd:
-nl.noconfig=Geen Cliënt gedetecteerd!
+nl.noconfig=Geen CliÃ«nt gedetecteerd!
 
 EU_case=EU Client
 NA_case=NA Client
