@@ -1,121 +1,121 @@
 ;Mods
-cz.CleanInstall=Èistá instalace !Doporuèujeme!
-cz.CleanInstallDesc=Èistá instalace !Doporuèujeme! (Vymae veškerı obsah sloky \res_mods\0.9.x, aby nedocházelo k nestabilitì hry.)
+cz.CleanInstall=ÄŒistÃ¡ instalace !DoporuÄujeme! TEST tak co jde to? TEST
+cz.CleanInstallDesc=ÄŒistÃ¡ instalace !DoporuÄujeme! (VymaÅ¾e veÅ¡kerÃ½ obsah sloÅ¾ky \res_mods\0.9.x, aby nedochÃ¡zelo k nestabilitÄ› hry.)
 
-cz.NoCleanInstall=Nic nemazat (Nedoporuèujme!!!)
-cz.NoCleanInstallDesc=Zvolte pouze tehdy, pokud víte co dìláte! Pokud zachováte pùvodní soubory ve sloce \res_mods\0.9.x, mùe doházet k nestabilitì hry! Nìkteré módy a rozšíøení nemusí správnì fungovat!
+cz.NoCleanInstall=Nic nemazat (NedoporuÄujme!!!)
+cz.NoCleanInstallDesc=Zvolte pouze tehdy, pokud vÃ­te co dÄ›lÃ¡te! Pokud zachovÃ¡te pÅ¯vodnÃ­ soubory ve sloÅ¾ce \res_mods\0.9.x, mÅ¯Å¾e dohÃ¡zet k nestabilitÄ› hry! NÄ›kterÃ© mÃ³dy a rozÅ¡Ã­Å™enÃ­ nemusÃ­ sprÃ¡vnÄ› fungovat!
 
-cz.xvmDesc=XVM: eXtended Visualization Mod - XVM neslouí jen pro zobrazování statistik. Pomocí XVM se zobrazuje další øada informací (na MiniMapì, Damage panelu, ...). XVM také umoòuje rùzné zmìny herního rozhraní. Další info na: www.modxvm.com/en
+cz.xvmDesc=XVM: eXtended Visualization Mod - XVM neslouÅ¾Ã­ jen pro zobrazovÃ¡nÃ­ statistik. PomocÃ­ XVM se zobrazuje dalÅ¡Ã­ Å™ada informacÃ­ (na MiniMapÄ›, Damage panelu, ...). XVM takÃ© umoÅ¾Åˆuje rÅ¯znÃ© zmÄ›ny hernÃ­ho rozhranÃ­. DalÅ¡Ã­ info na: www.modxvm.com/en
 
-cz.ContourIcons=Ikony tankù
-cz.ContourIconsDesc=Vyberte si ikony tankù, které se budou zobrazovat v PlayersPanelu. 
+cz.ContourIcons=Ikony tankÅ¯
+cz.ContourIconsDesc=Vyberte si ikony tankÅ¯, kterÃ© se budou zobrazovat v PlayersPanelu. 
 
-cz.WebiumContourIcons=Webium ikony tankù
-cz.WebiumContourIconsDesc=Webium ikony tankù (Webium's contour icons)
+cz.WebiumContourIcons=Webium ikony tankÅ¯
+cz.WebiumContourIconsDesc=Webium ikony tankÅ¯ (Webium's contour icons)
 
-cz.WebiumContourOnly=Webium barevné ikony tankù
-cz.WebiumContourOnlyDesc=Webium barenvé ikony tankù (Webium's colored contour icons)
+cz.WebiumContourOnly=Webium barevnÃ© ikony tankÅ¯
+cz.WebiumContourOnlyDesc=Webium barenvÃ© ikony tankÅ¯ (Webium's colored contour icons)
 
-cz.WebiumNamesOnly=Webium ikony s velkımi názvy
-cz.WebiumNamesOnlyDesc=Webium ikony s velkımi názvy (Webium's Big Names Icons)
+cz.WebiumNamesOnly=Webium ikony s velkÃ½mi nÃ¡zvy
+cz.WebiumNamesOnlyDesc=Webium ikony s velkÃ½mi nÃ¡zvy (Webium's Big Names Icons)
 
-cz.HpInEars=Povolit HP v PlayersPanel a na Minimapì
-cz.HpInEarsDesc=POZOR! Nároèné na vıkon! Nezapínejte tuto monost, pokud máte problém s herním vıkonem PC.
+cz.HpInEars=Povolit HP v PlayersPanel a na MinimapÄ›
+cz.HpInEarsDesc=POZOR! NÃ¡roÄnÃ© na vÃ½kon! NezapÃ­nejte tuto moÅ¾nost, pokud mÃ¡te problÃ©m s hernÃ­m vÃ½konem PC.
 
-cz.ColorScales=Barevné rozlišení
-cz.ColorScalesDesc=Vyberte si barevné rozlišení, které se má pouívat v herním rozhraní XVM. 
+cz.ColorScales=BarevnÃ© rozliÅ¡enÃ­
+cz.ColorScalesDesc=Vyberte si barevnÃ© rozliÅ¡enÃ­, kterÃ© se mÃ¡ pouÅ¾Ã­vat v hernÃ­m rozhranÃ­ XVM. 
 
 cz.ScaleXVM=XVM
-cz.ScaleXVMDesc=Pouít barevné rozlišení XVM
+cz.ScaleXVMDesc=PouÅ¾Ã­t barevnÃ© rozliÅ¡enÃ­ XVM
 
 cz.ScaleNM=Noobmeter
-cz.ScaleNMDesc=Pouít barevné rozlišení Noobmeter.com
+cz.ScaleNMDesc=PouÅ¾Ã­t barevnÃ© rozliÅ¡enÃ­ Noobmeter.com
 
 cz.ScaleWL=Wotlabs
-cz.ScaleWLDesc=Pouít barevné rozlišení Wotlabs.net
+cz.ScaleWLDesc=PouÅ¾Ã­t barevnÃ© rozliÅ¡enÃ­ Wotlabs.net
 
-cz.UseClanIcons=Klanové ikony
-cz.UseClanIconsDesc=Instalovat klanové ikony (staení a rozbalení mùe chvíli trvat)
+cz.UseClanIcons=KlanovÃ© ikony
+cz.UseClanIconsDesc=Instalovat klanovÃ© ikony (staÅ¾enÃ­ a rozbalenÃ­ mÅ¯Å¾e chvÃ­li trvat)
 
-cz.ClanEu=Klanové ikony EU
-cz.ClanEuDesc=Klanové ikony pro EU server.
+cz.ClanEu=KlanovÃ© ikony EU
+cz.ClanEuDesc=KlanovÃ© ikony pro EU server.
 
-cz.ClanNA=Klanové ikony NA
-cz.ClanNaDesc=Klanové ikony pro NA server.
+cz.ClanNA=KlanovÃ© ikony NA
+cz.ClanNaDesc=KlanovÃ© ikony pro NA server.
 
 ;SixthSense
-cz.SixthSenseIcon=Ikona šestého smyslu
-cz.SixthSenseDesc=Vyberte si jednu z ikon šestého smyslu. Další monosti nastavení (pozice zobrazení ikony na obrazovce, jak vloit jinou velikost ikony), najdete u nás na fóru: www.mywotmods.com/sk/forum/index v sekci General.  
+cz.SixthSenseIcon=Ikona Å¡estÃ©ho smyslu
+cz.SixthSenseDesc=Vyberte si jednu z ikon Å¡estÃ©ho smyslu. DalÅ¡Ã­ moÅ¾nosti nastavenÃ­ (pozice zobrazenÃ­ ikony na obrazovce, jak vloÅ¾it jinou velikost ikony), najdete u nÃ¡s na fÃ³ru: www.mywotmods.com/sk/forum/index v sekci General.  
 
-cz.OldWebiumIcon=Stará webium ikona
-cz.OldWebiumIconDesc=Stará webium ikona šestého smyslu (rùová bomba v kruhu s textem POZOR - WARNING).
+cz.OldWebiumIcon=StarÃ¡ webium ikona
+cz.OldWebiumIconDesc=StarÃ¡ webium ikona Å¡estÃ©ho smyslu (rÅ¯Å¾ovÃ¡ bomba v kruhu s textem POZOR - WARNING).
 
-cz.Mwm=Nová webium ikona
-cz.MwmDesc=Nová webium ikona šestého smyslu (vychází z loga mywotmods.com ale s textem POZOR - WARNING).
+cz.Mwm=NovÃ¡ webium ikona
+cz.MwmDesc=NovÃ¡ webium ikona Å¡estÃ©ho smyslu (vychÃ¡zÃ­ z loga mywotmods.com ale s textem POZOR - WARNING).
 
 cz.Skull=Ikona s lebkou
-cz.SkullDesc=Ikona šestého smyslu s lebkou.
+cz.SkullDesc=Ikona Å¡estÃ©ho smyslu s lebkou.
 
 cz.SauronSkull=Ikona Sauron lebka
-cz.SauronSkullDesc=Ikona šestého smyslu Sauron lebka.
+cz.SauronSkullDesc=Ikona Å¡estÃ©ho smyslu Sauron lebka.
 
 cz.SauronEye=Ikona Sauronovo oko
-cz.SauronEyeDesc=Ikona šestého smyslu Sauronovo oko.
+cz.SauronEyeDesc=Ikona Å¡estÃ©ho smyslu Sauronovo oko.
 
-cz.SixthSenseSound=Zvuky šestého smyslu
-cz.SixthSenseSoundDesc=Vyberte si jeden ze zvukù šestého smyslu.
+cz.SixthSenseSound=Zvuky Å¡estÃ©ho smyslu
+cz.SixthSenseSoundDesc=Vyberte si jeden ze zvukÅ¯ Å¡estÃ©ho smyslu.
 
-cz.SixthSirene=Siréna 10 sekund
-cz.SixthSireneDesc=10 sekund po detekci vašeho tanku, bude znít siréna.
+cz.SixthSirene=SirÃ©na 10 sekund
+cz.SixthSireneDesc=10 sekund po detekci vaÅ¡eho tanku, bude znÃ­t sirÃ©na.
 
-cz.SixthBuzz=Krátkı bzuèák
-cz.SixthBuzzDesc=Pøi detekci vašeho tanku, zazní krátkı bzuèák.
+cz.SixthBuzz=KrÃ¡tkÃ½ bzuÄÃ¡k
+cz.SixthBuzzDesc=PÅ™i detekci vaÅ¡eho tanku, zaznÃ­ krÃ¡tkÃ½ bzuÄÃ¡k.
 
-cz.SauronVoice=Saurunùv hlas
-cz.SauronVoiceDesc=Pøi detekci vašeho tanku, vás upozorní hlasem sám Sauron.
+cz.SauronVoice=SaurunÅ¯v hlas
+cz.SauronVoiceDesc=PÅ™i detekci vaÅ¡eho tanku, vÃ¡s upozornÃ­ hlasem sÃ¡m Sauron.
 
-cz.SixthBuzzTimer=Bzuèák + 10 sekundové pípání
-cz.SixthBuzzTimerDesc=Pøi detekci vašeho tanku, zazní bzuèák a poté bude ještì 10 sekund pípat upozornìní.
+cz.SixthBuzzTimer=BzuÄÃ¡k + 10 sekundovÃ© pÃ­pÃ¡nÃ­
+cz.SixthBuzzTimerDesc=PÅ™i detekci vaÅ¡eho tanku, zaznÃ­ bzuÄÃ¡k a potÃ© bude jeÅ¡tÄ› 10 sekund pÃ­pat upozornÄ›nÃ­.
 
 ;Crosshairs
-cz.Crosshairs=Zamìøovaèe
-cz.CrosshairsDesc=Vyberte si jeden ze zamìøovaèù.
+cz.Crosshairs=ZamÄ›Å™ovaÄe
+cz.CrosshairsDesc=Vyberte si jeden ze zamÄ›Å™ovaÄÅ¯.
 
-cz.JimboCross=J1mb0 zamìøovaè
-cz.JimboCrossDesc=J1mb0 zamìøovaè (J1mb0's crosshair).
+cz.JimboCross=J1mb0 zamÄ›Å™ovaÄ
+cz.JimboCrossDesc=J1mb0 zamÄ›Å™ovaÄ (J1mb0's crosshair).
 
-cz.ZayazCross=Zayaz zamìøovaè
-cz.ZayazCrossDesc=Zayaz zamìøovaè (Zayaz's crosshair).
+cz.ZayazCross=Zayaz zamÄ›Å™ovaÄ
+cz.ZayazCrossDesc=Zayaz zamÄ›Å™ovaÄ (Zayaz's crosshair).
 
-cz.ShtysCross=Shtys zamìøovaè
-cz.ShtysCrossDesc=Shtys zamìøovaè (Shtys crosshair).
+cz.ShtysCross=Shtys zamÄ›Å™ovaÄ
+cz.ShtysCrossDesc=Shtys zamÄ›Å™ovaÄ (Shtys crosshair).
 
-cz.DeegieCross=Deegie Sight zamìøovaè
-cz.DeegieCrossDesc=Deegie Sight zamìøovaè (Deegie's sight).
+cz.DeegieCross=Deegie Sight zamÄ›Å™ovaÄ
+cz.DeegieCrossDesc=Deegie Sight zamÄ›Å™ovaÄ (Deegie's sight).
 
-cz.MeltyCross=MeltyMap MathMod zamìøovaè
-cz.MeltyCrossDesc=MeltyMap MathMod zamìøovaè (MeltyMap's MathMod).
+cz.MeltyCross=MeltyMap MathMod zamÄ›Å™ovaÄ
+cz.MeltyCrossDesc=MeltyMap MathMod zamÄ›Å™ovaÄ (MeltyMap's MathMod).
 
-cz.MeltyCrossGreen=MeltyMap Green Version zamìøovaè
-cz.MeltyCrossGreenDesc=MeltyMap zelená verze zamìøovaèe (MeltyMap's MathMod in Green).
+cz.MeltyCrossGreen=MeltyMap Green Version zamÄ›Å™ovaÄ
+cz.MeltyCrossGreenDesc=MeltyMap zelenÃ¡ verze zamÄ›Å™ovaÄe (MeltyMap's MathMod in Green).
 
 cz.Hardscope=HardScope
-cz.HardscopeDesc=Historické zamìøovaèe
+cz.HardscopeDesc=HistorickÃ© zamÄ›Å™ovaÄe
 cz.HardscopeGER=HardScope German
 cz.HardscopeCCCP=HardScope CCCP, USA, France
 
-cz.GiacintCross=Giacint zamìøovaè
-cz.GiacintCrossDesc=Giacint zamìøovaè.
+cz.GiacintCross=Giacint zamÄ›Å™ovaÄ
+cz.GiacintCrossDesc=Giacint zamÄ›Å™ovaÄ.
 
-cz.Damocles=Damoklùv meè zamìøovaè
-cz.DamoclesDesc=Damoklùv meè zamìøovaè (Sword of Damocles).
+cz.Damocles=DamoklÅ¯v meÄ zamÄ›Å™ovaÄ
+cz.DamoclesDesc=DamoklÅ¯v meÄ zamÄ›Å™ovaÄ (Sword of Damocles).
 
-cz.AnimatedCross=Animated-6 zamìøovaè
-cz.AnimatedCrossDesc=Animated-6 zamìøovaè.
+cz.AnimatedCross=Animated-6 zamÄ›Å™ovaÄ
+cz.AnimatedCrossDesc=Animated-6 zamÄ›Å™ovaÄ.
 
 ;Damage Panels
 cz.DamagePanels=Damage Panely
-cz.DamagePanelsDesc=Vyberte si jeden z Damage Panelù.
+cz.DamagePanelsDesc=Vyberte si jeden z Damage PanelÅ¯.
 
 cz.ZayazDP=Zayaz Damage Panel
 cz.ZayazDPDesc=Zayaz's Damage Panel.
@@ -127,182 +127,182 @@ cz.ShtysDP=Shtys Damage Panel
 cz.ShtysDPDesc=Shtys Damage Panel.
 
 cz.MiniDP=Mini Damage Panel
-cz.MiniDPDesc=Mini Damage Panel zaloen na bázi GambitER Damage Panelu.
+cz.MiniDPDesc=Mini Damage Panel zaloÅ¾en na bÃ¡zi GambitER Damage Panelu.
 
-cz.TranspDP=Transparentní Damage Panel
-cz.TranspDPDesc=Transparentní Damage Panel.
+cz.TranspDP=TransparentnÃ­ Damage Panel
+cz.TranspDPDesc=TransparentnÃ­ Damage Panel.
 
 ;Other
 cz.MaxFarplane=Max FarPlane
-cz.MaxFarplaneDesc=Odstraní mlhu a zvıší maximální viditelnost.
+cz.MaxFarplaneDesc=OdstranÃ­ mlhu a zvÃ½Å¡Ã­ maximÃ¡lnÃ­ viditelnost.
 
 cz.ShtysInfoPanel=Shtys Info Panel
 cz.ShtysInfoPanelDesc=Shtys Info Panel
-cz.ExtendedConfig=Rozšírená konfigurace
-cz.ExtendedConfigDesc=Rozšírená konfigurace pro Info Panel.
+cz.ExtendedConfig=RozÅ¡Ã­renÃ¡ konfigurace
+cz.ExtendedConfigDesc=RozÅ¡Ã­renÃ¡ konfigurace pro Info Panel.
 
 cz.RadialMenu=Radial Menu
 cz.RadialMenuDesc=Radial Menu
 cz.RadialJognt=Jogntonova konfigurace
-cz.RadialJogntDesc=Zjednodušená konfigurace od Jogntona.
+cz.RadialJogntDesc=ZjednoduÅ¡enÃ¡ konfigurace od Jogntona.
 
 cz.UTAnnouncer=UT Announcer + KillCounter
-cz.UTAnnouncerDesc=Mód hlási poèet tvıch fragù (First Blood, Double Kill, ...) a odpoèítává kolik èasu zbıvá do konce bitvy (3 minuty, 2 minuty, ...)
+cz.UTAnnouncerDesc=MÃ³d hlÃ¡si poÄet tvÃ½ch fragÅ¯ (First Blood, Double Kill, ...) a odpoÄÃ­tÃ¡vÃ¡ kolik Äasu zbÃ½vÃ¡ do konce bitvy (3 minuty, 2 minuty, ...)
 
 cz.SafeShot=SafeShot
-cz.SafeShotDesc=Zapnutı mód zabraòuje støílet do vlastních øad. Znemoní také vystøelit na právì vzniklı vrak (2 sekundy po znièení). Další informace k tomuto módu, najdete u nás na fóru: www.mywotmods.com/sk/forum/index v sekci General, klávesové zkratky.
+cz.SafeShotDesc=ZapnutÃ½ mÃ³d zabraÅˆuje stÅ™Ã­let do vlastnÃ­ch Å™ad. ZnemoÅ¾nÃ­ takÃ© vystÅ™elit na prÃ¡vÄ› vzniklÃ½ vrak (2 sekundy po zniÄenÃ­). DalÅ¡Ã­ informace k tomuto mÃ³du, najdete u nÃ¡s na fÃ³ru: www.mywotmods.com/sk/forum/index v sekci General, klÃ¡vesovÃ© zkratky.
 
-cz.BigHotKeys=Velká èísla u spotøebního materiálu
-cz.BigHotKeysDesc=Velká èísla u spotøebního materiálu (Big Hot Keys for Consumables).
+cz.BigHotKeys=VelkÃ¡ ÄÃ­sla u spotÅ™ebnÃ­ho materiÃ¡lu
+cz.BigHotKeysDesc=VelkÃ¡ ÄÃ­sla u spotÅ™ebnÃ­ho materiÃ¡lu (Big Hot Keys for Consumables).
 
-cz.WhiteDeadTanks=Bílé vraky tankù
-cz.WhiteDeadTanksDesc=Bílé vraky tankù, pro lepší orientaci na bojišti.
+cz.WhiteDeadTanks=BÃ­lÃ© vraky tankÅ¯
+cz.WhiteDeadTanksDesc=BÃ­lÃ© vraky tankÅ¯, pro lepÅ¡Ã­ orientaci na bojiÅ¡ti.
 
-cz.VisibleWagons=Zvıraznìné vagóny
-cz.VisibleWagonsDesc=Zvıraznìné vagóny, pro lepší orientaci na bojišti.
+cz.VisibleWagons=ZvÃ½raznÄ›nÃ© vagÃ³ny
+cz.VisibleWagonsDesc=ZvÃ½raznÄ›nÃ© vagÃ³ny, pro lepÅ¡Ã­ orientaci na bojiÅ¡ti.
 
 cz.DMGStickers=Damage Stickers
-cz.DMGStickersDesc=Damage Stickers nebo také nazıvané jako paintball mód. Zobrazuje zásahy na nepøátelském tanku.
+cz.DMGStickersDesc=Damage Stickers nebo takÃ© nazÃ½vanÃ© jako paintball mÃ³d. Zobrazuje zÃ¡sahy na nepÅ™Ã¡telskÃ©m tanku.
 
-cz.ReceivedDamageAnnouncer=Hlasatel pøijatıch zásahù
-cz.ReceivedDamageAnnouncerDesc= Hlasatel pøijatıch zásahù (Received Damage Announcer).
+cz.ReceivedDamageAnnouncer=Hlasatel pÅ™ijatÃ½ch zÃ¡sahÅ¯
+cz.ReceivedDamageAnnouncerDesc= Hlasatel pÅ™ijatÃ½ch zÃ¡sahÅ¯ (Received Damage Announcer).
 
-cz.AccurateDMGIndicator=Ukazatel smìru zásahu
-cz.AccurateDMGIndicatorDesc=Ukazatel smìru zásahu (Accurate Damage Indicator). Na obrazovce se objeví èervená/lutá šipka ukazující smìr odkud nepøítel støílí.
+cz.AccurateDMGIndicator=Ukazatel smÄ›ru zÃ¡sahu
+cz.AccurateDMGIndicatorDesc=Ukazatel smÄ›ru zÃ¡sahu (Accurate Damage Indicator). Na obrazovce se objevÃ­ ÄervenÃ¡/Å¾lutÃ¡ Å¡ipka ukazujÃ­cÃ­ smÄ›r odkud nepÅ™Ã­tel stÅ™Ã­lÃ­.
 
 cz.ChatHistory=Historie v chatu
-cz.ChatHistoryDesc=Mód zaznamená historie v chatu.
+cz.ChatHistoryDesc=MÃ³d zaznamenÃ¡ historie v chatu.
 
 cz.AutoAimIndicator=AutoAim Indicator
-cz.AutoAimIndicatorDesc=Pøi zamìøení cíle, se zobrazí lutım písmem název tanku - on/off klávesa KEY_NUMPAD0 (nula na numerické klávesnici).
+cz.AutoAimIndicatorDesc=PÅ™i zamÄ›Å™enÃ­ cÃ­le, se zobrazÃ­ Å¾lutÃ½m pÃ­smem nÃ¡zev tanku - on/off klÃ¡vesa KEY_NUMPAD0 (nula na numerickÃ© klÃ¡vesnici).
 
 cz.AutoAimExtended=AutoAim Extended
-cz.AutoAimExtendedDesc=Rozšíøenı indikátor cíle, zobrazí barevnı kruh okolo zamìøeného tanku.
+cz.AutoAimExtendedDesc=RozÅ¡Ã­Å™enÃ½ indikÃ¡tor cÃ­le, zobrazÃ­ barevnÃ½ kruh okolo zamÄ›Å™enÃ©ho tanku.
 
 cz.AllyOutline=Always outlined Allies
-cz.AllyOutlineDesc=Spojenci vzdáleni víc jak 100m, jsou zvıraznìni šedım obrysem.
+cz.AllyOutlineDesc=Spojenci vzdÃ¡leni vÃ­c jak 100m, jsou zvÃ½raznÄ›ni Å¡edÃ½m obrysem.
 
 cz.TeamHP=Team HP Pool Bar
-cz.TeamHPDesc=Mód zobrazuje celkové HP obou tımù + Potøebné damage pro dosaení ocenìní HighCaliber. Zobrazuje se pouze HP naspotovanıch tankù.
+cz.TeamHPDesc=MÃ³d zobrazuje celkovÃ© HP obou tÃ½mÅ¯ + PotÅ™ebnÃ© damage pro dosaÅ¾enÃ­ ocenÄ›nÃ­ HighCaliber. Zobrazuje se pouze HP naspotovanÃ½ch tankÅ¯.
 
 cz.ServerSelect=Server Selection Fix
-cz.ServerSelectDesc=Zapamatuje si vıbìr serveru.
+cz.ServerSelectDesc=Zapamatuje si vÃ½bÄ›r serveru.
 
 cz.Atac=ATAC!
-cz.AtacDesc=ATAC! Další informace k tomuto módu, najdete u nás na fóru: www.mywotmods.com/sk/forum/index v sekci General, klávesové zkratky.
+cz.AtacDesc=ATAC! DalÅ¡Ã­ informace k tomuto mÃ³du, najdete u nÃ¡s na fÃ³ru: www.mywotmods.com/sk/forum/index v sekci General, klÃ¡vesovÃ© zkratky.
 
 ;HitSkins
-cz.HitSkins=Hit zóny
-cz.HitSkinsDesc=Pokud chcete instalovat Hit zóny, vyberte si jaké vám budou vyhovovat.
+cz.HitSkins=Hit zÃ³ny
+cz.HitSkinsDesc=Pokud chcete instalovat Hit zÃ³ny, vyberte si jakÃ© vÃ¡m budou vyhovovat.
 
-cz.HitSkinsKorean=Barevné Hit zóny (DL)
-cz.HitSkinsKoreanDesc=Korean Random Weakspot Skins - Barevnì zobrazeny zranitelné zóny tanku a zóny pro penetraci (zranitelná místa, umístìní modulù a posádky) - pro 173 tankù.
+cz.HitSkinsKorean=BarevnÃ© Hit zÃ³ny (DL)
+cz.HitSkinsKoreanDesc=Korean Random Weakspot Skins - BarevnÄ› zobrazeny zranitelnÃ© zÃ³ny tanku a zÃ³ny pro penetraci (zranitelnÃ¡ mÃ­sta, umÃ­stÄ›nÃ­ modulÅ¯ a posÃ¡dky) - pro 173 tankÅ¯.
 
-cz.HitSkinsWhite=Bílé Hit zóny (DL)
-cz.HitSkinsWhiteDesc=Hit zones. Contour skin - Bíle zobrazeny zranitelné zóny tanku a zóny pro penetraci (zranitelná místa, umístìní modulù a posádky) - pro 81 tankù.
+cz.HitSkinsWhite=BÃ­lÃ© Hit zÃ³ny (DL)
+cz.HitSkinsWhiteDesc=Hit zones. Contour skin - BÃ­le zobrazeny zranitelnÃ© zÃ³ny tanku a zÃ³ny pro penetraci (zranitelnÃ¡ mÃ­sta, umÃ­stÄ›nÃ­ modulÅ¯ a posÃ¡dky) - pro 81 tankÅ¯.
 
 cz.ExpD=Hitlog & InBattle WN8 Calculator
-cz.ExpDDesc=Zobrazuje udìlené poškození (nezávisle na XVM), oèekávané poškození (expected DMG) a aktuální hodnotu WN8 v bitvì.
+cz.ExpDDesc=Zobrazuje udÄ›lenÃ© poÅ¡kozenÃ­ (nezÃ¡visle na XVM), oÄekÃ¡vanÃ© poÅ¡kozenÃ­ (expected DMG) a aktuÃ¡lnÃ­ hodnotu WN8 v bitvÄ›.
 
 cz.IamSpotted=I'm spotted
-cz.IamSpottedDesc=Spot Messanger (I'm spotted) automaticky oznamuje spoluhráèùm pomocí chatu, tvou pozici kde tì nepøítel spot. Mód je v náhodnıch bitvách vypnutı. Další info na: www.mywotmods.com/sk/forum/index v sekci General, klávesové zkratky.
+cz.IamSpottedDesc=Spot Messanger (I'm spotted) automaticky oznamuje spoluhrÃ¡ÄÅ¯m pomocÃ­ chatu, tvou pozici kde tÄ› nepÅ™Ã­tel spot. MÃ³d je v nÃ¡hodnÃ½ch bitvÃ¡ch vypnutÃ½. DalÅ¡Ã­ info na: www.mywotmods.com/sk/forum/index v sekci General, klÃ¡vesovÃ© zkratky.
 
-cz.Tessu=TessuMod, WOT-Teamspeak pøipojení
-cz.TessuDesc=TessuMod, WOT-Teamspeak pøipojení.
+cz.Tessu=TessuMod, WOT-Teamspeak pÅ™ipojenÃ­
+cz.TessuDesc=TessuMod, WOT-Teamspeak pÅ™ipojenÃ­.
 
 ;Zoom
-cz.Zoom=Zoom a monosti zobrazení
-cz.ZoomDesc=Vyberte si monosti zoomu a monosti zobrazení.
+cz.Zoom=Zoom a moÅ¾nosti zobrazenÃ­
+cz.ZoomDesc=Vyberte si moÅ¾nosti zoomu a moÅ¾nosti zobrazenÃ­.
 
-cz.ZoomOut=Oddálení zoomu
-cz.ZoomOutDesc=Oddálení zoomu (Zoom Out), umoní nekoneèné oddálení pohledu.
+cz.ZoomOut=OddÃ¡lenÃ­ zoomu
+cz.ZoomOutDesc=OddÃ¡lenÃ­ zoomu (Zoom Out), umoÅ¾nÃ­ nekoneÄnÃ© oddÃ¡lenÃ­ pohledu.
 
 cz.ZoomX=ZoomX
 cz.ZoomXDesc=ZoomX
 
-cz.ZoomIndicator=Indikátor zoomu
-cz.ZoomIndicatorDesc=Indikátor zoomu (Zoom Indicator), zobrazí hodnotu pøiblíení. 
+cz.ZoomIndicator=IndikÃ¡tor zoomu
+cz.ZoomIndicatorDesc=IndikÃ¡tor zoomu (Zoom Indicator), zobrazÃ­ hodnotu pÅ™iblÃ­Å¾enÃ­. 
 
 cz.NoScroll=NoScroll
-cz.NoScrollDesc=Znemoní scrollování koleèkem na myši. Zoom in/out je monı jen pomocí levého Shiftu.
+cz.NoScrollDesc=ZnemoÅ¾nÃ­ scrollovÃ¡nÃ­ koleÄkem na myÅ¡i. Zoom in/out je moÅ¾nÃ½ jen pomocÃ­ levÃ©ho Shiftu.
 
-cz.OldServerCross=Starı serverovı zamìøovaè
-cz.OldServerCrossDesc=Vıbìrem zapnete starı serverovı zamìøovaè.
+cz.OldServerCross=StarÃ½ serverovÃ½ zamÄ›Å™ovaÄ
+cz.OldServerCrossDesc=VÃ½bÄ›rem zapnete starÃ½ serverovÃ½ zamÄ›Å™ovaÄ.
 
-cz.BattleAssistant=Bitevní pomocník (Battle Assistant)
-cz.BattleAssistantDesc=Bitevní pomocník (Battle Assistant), je nejlepší modifikace podle WDC (Wargaming Developers soutìe). Universální dìlostøeleckı pohled! Vıhody najdete u nás na fóru: www.mywotmods.com/sk/forum/index v sekci General, klávesové zkratky.
+cz.BattleAssistant=BitevnÃ­ pomocnÃ­k (Battle Assistant)
+cz.BattleAssistantDesc=BitevnÃ­ pomocnÃ­k (Battle Assistant), je nejlepÅ¡Ã­ modifikace podle WDC (Wargaming Developers soutÄ›Å¾e). UniversÃ¡lnÃ­ dÄ›lostÅ™eleckÃ½ pohled! VÃ½hody najdete u nÃ¡s na fÃ³ru: www.mywotmods.com/sk/forum/index v sekci General, klÃ¡vesovÃ© zkratky.
 
 cz.FreeCamera=Free Camera
-cz.FreeCameraDesc=Povolí volnou kameru v replay. Pouití - Poèkej/Pøeskoè 30s intro, 1x klikni levım tlaèítkem myši, podr CapsLock + F3. Celı návod k tomuto módu, najdete u nás na fóru: www.mywotmods.com/sk/forum/index v sekci General, klávesové zkratky. 
+cz.FreeCameraDesc=PovolÃ­ volnou kameru v replay. PouÅ¾itÃ­ - PoÄkej/PÅ™eskoÄ 30s intro, 1x klikni levÃ½m tlaÄÃ­tkem myÅ¡i, podrÅ¾ CapsLock + F3. CelÃ½ nÃ¡vod k tomuto mÃ³du, najdete u nÃ¡s na fÃ³ru: www.mywotmods.com/sk/forum/index v sekci General, klÃ¡vesovÃ© zkratky. 
 
 ;Sounds
 cz.Sounds=Zvuky
 cz.SoundsDesc=Zvuky
 
-cz.CriticalHit=Zvuk kritického zásahu (zvoneèek)
-cz.CriticalHitDesc=Zvuk zvoneèku pøi kritickém zásahu nepøítele.
+cz.CriticalHit=Zvuk kritickÃ©ho zÃ¡sahu (zvoneÄek)
+cz.CriticalHitDesc=Zvuk zvoneÄku pÅ™i kritickÃ©m zÃ¡sahu nepÅ™Ã­tele.
 
-cz.GunReloaded=Zvuk nabíjení dìla (UP!)
-cz.GunReloadedDesc=Zvukové upozornìní ve chvíli, kdy je dìlo nabité a pøipravené k palbì. 
+cz.GunReloaded=Zvuk nabÃ­jenÃ­ dÄ›la (UP!)
+cz.GunReloadedDesc=ZvukovÃ© upozornÄ›nÃ­ ve chvÃ­li, kdyÅ¾ je dÄ›lo nabitÃ© a pÅ™ipravenÃ© k palbÄ›. 
 
 cz.KriegstreiberSounds=Kriegstreiberovy zvuky (DL)
 cz.KriegstreiberSoundsDesc=Kriegstreiberovy zvuky (DL)
 
-cz.KTEngines=WWIIHWA rálné zvuky motorù
-cz.KTEnginesDesc=WWIIHWA rálné zvuky motorù (WWIIHWA ENGINES REAL SURROUND).
+cz.KTEngines=WWIIHWA rÃ¡lnÃ© zvuky motorÅ¯
+cz.KTEnginesDesc=WWIIHWA rÃ¡lnÃ© zvuky motorÅ¯ (WWIIHWA ENGINES REAL SURROUND).
 
-cz.KTGuns=WWIIHWA zvuky dìl
-cz.KTGunsDesc=WWIIHWA zvuky dìl (WWIIHWA Gun Sounds).
+cz.KTGuns=WWIIHWA zvuky dÄ›l
+cz.KTGunsDesc=WWIIHWA zvuky dÄ›l (WWIIHWA Gun Sounds).
 
-cz.KTHits=WWIIHWA zvuky zásahù
-cz.KTHitsDesc=WWIIHWA zvuky zásahù (WWIIHWA Hit Sounds).
+cz.KTHits=WWIIHWA zvuky zÃ¡sahÅ¯
+cz.KTHitsDesc=WWIIHWA zvuky zÃ¡sahÅ¯ (WWIIHWA Hit Sounds).
 
-cz.KTTurrets=WWIIHWA zvuky otáèení vìe
-cz.KTTurretsDesc=WWIIHWA zvuky otáèení vìe (WWIIHWA Turret Traverse Sounds).
+cz.KTTurrets=WWIIHWA zvuky otÃ¡ÄenÃ­ vÄ›Å¾e
+cz.KTTurretsDesc=WWIIHWA zvuky otÃ¡ÄenÃ­ vÄ›Å¾e (WWIIHWA Turret Traverse Sounds).
 
 cz.GnomefatherSounds=Gnomefatherovy zvuky (DL)
 cz.GnomefatherSoundsDesc=Gnomefatherovy zvuky (DL)
 
-cz.GFEngines=Zvuky motorù
-cz.GFEnginesDesc=Gnomefatherovy zvuky motorù.
+cz.GFEngines=Zvuky motorÅ¯
+cz.GFEnginesDesc=Gnomefatherovy zvuky motorÅ¯.
 
-cz.GFEnginesR=Zvuky motorù s rádiem
-cz.GFEnginesRDesc=Gnomefatherovy zvuky motorù spolu s rádiem.
+cz.GFEnginesR=Zvuky motorÅ¯ s rÃ¡diem
+cz.GFEnginesRDesc=Gnomefatherovy zvuky motorÅ¯ spolu s rÃ¡diem.
 
-cz.GFGuns=Historické zvuky zbraní
-cz.GFGunsDesc=Historické zvuky zbraní.
+cz.GFGuns=HistorickÃ© zvuky zbranÃ­
+cz.GFGunsDesc=HistorickÃ© zvuky zbranÃ­.
 
 cz.Voices=Hlasy
-cz.VoicesDesc=Hlasy posádky
+cz.VoicesDesc=Hlasy posÃ¡dky
 
 ;Hangar
-cz.Hangar=Gará
-cz.HangarDesc=Gará
+cz.Hangar=GarÃ¡Å¾
+cz.HangarDesc=GarÃ¡Å¾
 
-cz.ModulesManagement=Správa vybavení
-cz.ModulesManagementDesc=Správa vybavení (modulù).
+cz.ModulesManagement=SprÃ¡va vybavenÃ­
+cz.ModulesManagementDesc=SprÃ¡va vybavenÃ­ (modulÅ¯).
 
 cz.AutoEquip=AutoEquip
-cz.AutoEquipDesc=Na všechny tanky mùete pouít 1 kus bino, mask., náøadí. Poprvé je nuné si nastavit vybavení manuálnì, mód si zapamatuje vaše nastavení. Další info na: www.mywotmods.com/sk/forum/index v sekci General, klávesové zkratky.
+cz.AutoEquipDesc=Na vÅ¡echny tanky mÅ¯Å¾ete pouÅ¾Ã­t 1 kus bino, mask., nÃ¡Å™adÃ­. PoprvÃ© je nunÃ© si nastavit vybavenÃ­ manuÃ¡lnÄ›, mÃ³d si zapamatuje vaÅ¡e nastavenÃ­. DalÅ¡Ã­ info na: www.mywotmods.com/sk/forum/index v sekci General, klÃ¡vesovÃ© zkratky.
 
 cz.AutoTelescope=Auto Telescope
-cz.AutotelescopeDesc=Na všechny tanky ti staèí vlastnit 1 kus bino, maskovaèky nebo náøadí (odporuèují se vlastnit 2ks, pro pøípad, e máte jedno vozidlo v bitvì) - pokud máte na tanku volnı slot, budou pøed bytvou automaticky doplnìny.
+cz.AutotelescopeDesc=Na vÅ¡echny tanky ti staÄÃ­ vlastnit 1 kus bino, maskovaÄky nebo nÃ¡Å™adÃ­ (odporuÄujÃ­ se vlastnit 2ks, pro pÅ™Ã­pad, Å¾e mÃ¡te jedno vozidlo v bitvÄ›) - pokud mÃ¡te na tanku volnÃ½ slot, budou pÅ™ed bytvou automaticky doplnÄ›ny.
 
-cz.ClockInHangar=Hodiny v garái
-cz.ClockInHangarDesc=Hodiny v garái, které zobrazují datum, aktuální èas a den v tıdnu (Po,Út,St...).
+cz.ClockInHangar=Hodiny v garÃ¡Å¾i
+cz.ClockInHangarDesc=Hodiny v garÃ¡Å¾i, kterÃ© zobrazujÃ­ datum, aktuÃ¡lnÃ­ Äas a den v tÃ½dnu (Po,Ãšt,St...).
 
 cz.ProgressIndicator=Progress Indicator Text Mod
 cz.ProgressIndicatorDesc=Progress Indicator Text Mod
 
-cz.SessionStats=Denní statistiky
-cz.SessionStatsDesc=Denní statistiky
-cz.WN8SessionStats=WN8 denní statistiky
-cz.WN8SessionStatsDesc=Minimalistické denní statistiky s WN8
-cz.ManualReset=Povolit manuální reset
-cz.ManualResetDesc=Umoní manuální reset statistik, pøímo v garái (ve zprávách), kliknutím na Reset
+cz.SessionStats=DennÃ­ statistiky
+cz.SessionStatsDesc=DennÃ­ statistiky
+cz.WN8SessionStats=WN8 dennÃ­ statistiky
+cz.WN8SessionStatsDesc=MinimalistickÃ© dennÃ­ statistiky s WN8
+cz.ManualReset=Povolit manuÃ¡lnÃ­ reset
+cz.ManualResetDesc=UmoÅ¾nÃ­ manuÃ¡lnÃ­ reset statistik, pÅ™Ã­mo v garÃ¡Å¾i (ve zprÃ¡vÃ¡ch), kliknutÃ­m na Reset
 
-cz.HangarStyle=Styl garáe
-cz.HangarStyleDesc=Mùete nainstalovat více pozadí (tapet) garáe a pøepínat je pøímo z garáe, pomocí tlaèítka HANGAR. 
+cz.HangarStyle=Styl garÃ¡Å¾e
+cz.HangarStyleDesc=MÅ¯Å¾ete nainstalovat vÃ­ce pozadÃ­ (tapet) garÃ¡Å¾e a pÅ™epÃ­nat je pÅ™Ã­mo z garÃ¡Å¾e, pomocÃ­ tlaÄÃ­tka HANGAR. 
 
 cz.HangarPremium=Premium Hangar
 cz.HangarPremiumDesc=Premium Hangar
@@ -320,78 +320,78 @@ cz.ChineseNATDay=Chinese national day (DL)
 cz.ChineseNATDayDesc=Chinese national day (DL)
 
 cz.Miku=Miku Hangar (DL)
-cz.MikuDesc=Unikátní stylové prostøedí (šikmé stìny, futuristická høídel s velkou plošinou ve støedu scény)
+cz.MikuDesc=UnikÃ¡tnÃ­ stylovÃ© prostÅ™edÃ­ (Å¡ikmÃ© stÄ›ny, futuristickÃ¡ hÅ™Ã­del s velkou ploÅ¡inou ve stÅ™edu scÃ©ny)
 
-cz.FemaleCrew=enská posádka (DL)
-cz.FemaleCrewDesc=enská posádka (DL)
+cz.FemaleCrew=Å½enskÃ¡ posÃ¡dka (DL)
+cz.FemaleCrewDesc=Å½enskÃ¡ posÃ¡dka (DL)
 
-cz.RecoVertical=ReCo’s Vertical Tech Tree
-cz.RecoVerticalDesc=ReCosùv vertikální strom vızkumu.
+cz.RecoVertical=ReCoâ€™s Vertical Tech Tree
+cz.RecoVerticalDesc=ReCosÅ¯v vertikÃ¡lnÃ­ strom vÃ½zkumu.
 
-cz.WebiumGolden=Zlaté premium tanky
-cz.WebiumGoldenDesc=Zlaté ikony premium tankù v garái (v carouseli).
+cz.WebiumGolden=ZlatÃ© premium tanky
+cz.WebiumGoldenDesc=ZlatÃ© ikony premium tankÅ¯ v garÃ¡Å¾i (v carouseli).
 
 ;cz.WGTwitch=WG Twitch mod
-;cz.WGTwitchDesc=Mód na ivé vysílání tvé hry na serveru Twitch.tv
+;cz.WGTwitchDesc=MÃ³d na Å¾ivÃ© vysÃ­lÃ¡nÃ­ tvÃ© hry na serveru Twitch.tv
 
 cz.ReplaysManager=Replays Manager
-cz.ReplaysManagerDesc=Správa replayù pøímo v garái. 
+cz.ReplaysManagerDesc=SprÃ¡va replayÅ¯ pÅ™Ã­mo v garÃ¡Å¾i. 
 
 cz.CrewExt=Crew Exp Extended
-cz.CrewExtDesc=Zobrazuje potøebnı poèet bitev na dosaení dalšího % a 100%
+cz.CrewExtDesc=Zobrazuje potÅ™ebnÃ½ poÄet bitev na dosaÅ¾enÃ­ dalÅ¡Ã­ho % a 100%
 
-cz.VehExt=Rozšíøené info o vozidle (Vehicle Exp Extended)
-cz.VehExtDesc=Mód zobrazí info, kolik bitev a expù je zapotøebí odehrát pro vyzkoumání dalšího modulu/tanku.
+cz.VehExt=RozÅ¡Ã­Å™enÃ© info o vozidle (Vehicle Exp Extended)
+cz.VehExtDesc=MÃ³d zobrazÃ­ info, kolik bitev a expÅ¯ je zapotÅ™ebÃ­ odehrÃ¡t pro vyzkoumÃ¡nÃ­ dalÅ¡Ã­ho modulu/tanku.
 
-cz.QuestsX=Osobní mise (Quests Extended)
-cz.QuestsXDesc=Umoòuje automatickou aktivaci úkolù v Osobních Misích. Normal - Primární podmínky, Hard - Primární + Sekundární. V kombinaci s módem "Rozšíøené info o vozidle" je monost pøepínat pomocí Alt+2 mezi Normal/Hard pøímo v garái.
+cz.QuestsX=OsobnÃ­ mise (Quests Extended)
+cz.QuestsXDesc=UmoÅ¾Åˆuje automatickou aktivaci ÃºkolÅ¯ v OsobnÃ­ch MisÃ­ch. Normal - PrimÃ¡rnÃ­ podmÃ­nky, Hard - PrimÃ¡rnÃ­ + SekundÃ¡rnÃ­. V kombinaci s mÃ³dem "RozÅ¡Ã­Å™enÃ© info o vozidle" je moÅ¾nost pÅ™epÃ­nat pomocÃ­ Alt+2 mezi Normal/Hard pÅ™Ã­mo v garÃ¡Å¾i.
 
 ;Tasks
-cz.colorblind=Zapnout barvy pro barvoslepé
+cz.colorblind=Zapnout barvy pro barvoslepÃ©
 cz.autologin=Povolit Autologin
-cz.clock=Zobrazit hodiny v garái
+cz.clock=Zobrazit hodiny v garÃ¡Å¾i
 cz.battletier=Zobrazit Tier bitvy
 cz.carousel=Povolit XVM Carousel
-cz.rows1=1 øádek
-cz.rows2=2 øádky
-cz.rows3=3 øádky
+cz.rows1=1 Å™Ã¡dek
+cz.rows2=2 Å™Ã¡dky
+cz.rows3=3 Å™Ã¡dky
 cz.carouselwinrate=Zobrazit WinRate
-cz.carouselbattles=Zobrazit poèet bitev/DMG Efficiency
+cz.carouselbattles=Zobrazit poÄet bitev/DMG Efficiency
 cz.carouseldmg=Zobrazit Avg. DMG/Expected DMG
-cz.carouselmarks=Zobrazit procentuální hodnotu Marks on Gun
+cz.carouselmarks=Zobrazit procentuÃ¡lnÃ­ hodnotu Marks on Gun
 cz.carouselmarksicon=Zobrazit ikonu Marks on Gun
-cz.xvmlang=Zobrazit vlajky v PlayersPanelu podle národnosti (jazyka)
+cz.xvmlang=Zobrazit vlajky v PlayersPanelu podle nÃ¡rodnosti (jazyka)
 cz.xvmuser=Zobrazit ukazatele XVM v PlayersPanelu
 
-cz.allynames=Zobrazit jména spojencù nad tanky
-cz.enemynames=Zobrazit jména nepøátel nad tanky
+cz.allynames=Zobrazit jmÃ©na spojencÅ¯ nad tanky
+cz.enemynames=Zobrazit jmÃ©na nepÅ™Ã¡tel nad tanky
 
 en.useStandardMarkers=Disable XVM Markers (Use Standard Markers)
-cz.hotkeys=Klávesa pro zobrazení velké minimapy (Big Minimap)
-cz.hotkeysCaps=Klávesa "Caps Lock" (Vıchozí nastavení)
-cz.hotkeysCtrl=Klávesa "Levı CTRL"
-cz.disableall=Zakázat všechny XVM funkce
-cz.disablestats=Zakázat XVM statistiky
-cz.disablepp=Zakázat XVM PlayersPanel (Seznam hráèù)
-cz.disablehitlog=Zakázat XVM Hitlog (Udìlené poškození)
-cz.disablecapturebar=Zakázat XVM Capturebar (Info o obsazování základny)
-cz.disableminimap=Zakázat XVM Minimapu
+cz.hotkeys=KlÃ¡vesa pro zobrazenÃ­ velkÃ© minimapy (Big Minimap)
+cz.hotkeysCaps=KlÃ¡vesa "Caps Lock" (VÃ½chozÃ­ nastavenÃ­)
+cz.hotkeysCtrl=KlÃ¡vesa "LevÃ½ CTRL"
+cz.disableall=ZakÃ¡zat vÅ¡echny XVM funkce
+cz.disablestats=ZakÃ¡zat XVM statistiky
+cz.disablepp=ZakÃ¡zat XVM PlayersPanel (Seznam hrÃ¡ÄÅ¯)
+cz.disablehitlog=ZakÃ¡zat XVM Hitlog (UdÄ›lenÃ© poÅ¡kozenÃ­)
+cz.disablecapturebar=ZakÃ¡zat XVM Capturebar (Info o obsazovÃ¡nÃ­ zÃ¡kladny)
+cz.disableminimap=ZakÃ¡zat XVM Minimapu
 
 ;After Install
-cz.xvmsignDesc=Pøihlásit se na stránce XVM a aktivovat statistiky
-cz.KeyboardShortcuts=Zobrazit Klávesové zkratky
+cz.xvmsignDesc=PÅ™ihlÃ¡sit se na strÃ¡nce XVM a aktivovat statistiky
+cz.KeyboardShortcuts=Zobrazit KlÃ¡vesovÃ© zkratky
 
 ;Buttons
-cz.patreonDesc=Staò se Patronem
-cz.paypalDesc=Odmìò mì pøes PayPal nebo Kreditní kartou
-cz.giftshopDesc=Nebo mì podpoø dárkem z Gift shopu
+cz.patreonDesc=StaÅˆ se Patronem
+cz.paypalDesc=OdmÄ›Åˆ mÄ› pÅ™es PayPal nebo KreditnÃ­ kartou
+cz.giftshopDesc=Nebo mÄ› podpoÅ™ dÃ¡rkem z Gift shopu
 
 ;System
-cz.lang=czech (èeština)
-cz.visitweb=Navštívit Mywotmods.com
+cz.lang=czech (ÄeÅ¡tina)
+cz.visitweb=NavÅ¡tÃ­vit Mywotmods.com
 
-cz.detected=Zjištìn:
-cz.noconfig=Klient nebyl zjištìn!
+cz.detected=ZjiÅ¡tÄ›n:
+cz.noconfig=Klient nebyl zjiÅ¡tÄ›n!
 
 EU_case=EU Client
 NA_case=NA Client
@@ -409,18 +409,18 @@ test_kr=Korea_Client_Component
 ;; Multilingual ISSI_Url
 cz.issiUrl=http://www.mywotmods.com/sk/mody/balicky-modov/item/25-webium-mod-pack
 ;; Multilingual ISSI_UrlText
-cz.issiUrlText=Nápovìda: www.myWOTmods.com
+cz.issiUrlText=NÃ¡povÄ›da: www.myWOTmods.com
 
-cz.standardtype=Originál webium modpack
-cz.customtype=Vlastní vıbìr módù
+cz.standardtype=OriginÃ¡l webium modpack
+cz.customtype=VlastnÃ­ vÃ½bÄ›r mÃ³dÅ¯
 
 cz.desc=Popis
-cz.descLong=Webium modpack mùeš kdykoli jednoduše upravit, opravit nebo odinstalovat pøes Ovládací panely. Další monost je spustit ikonu "webium modpack" na Ploše.
+cz.descLong=Webium modpack mÅ¯Å¾eÅ¡ kdykoli jednoduÅ¡e upravit, opravit nebo odinstalovat pÅ™es OvlÃ¡dacÃ­ panely. DalÅ¡Ã­ moÅ¾nost je spustit ikonu "webium modpack" na PloÅ¡e.
 
 cz.modpackUpdate=http://www.mywotmods.com/sk/mody/balicky-modov/item/25-webium-mod-pack
-cz.CounterError=Chyba v pøipojení na www.mywotmods.com
+cz.CounterError=Chyba v pÅ™ipojenÃ­ na www.mywotmods.com
 
-cz.SetupVersionCheckErrorInvalidFormat=Dostupnost nové verze:%nNeplatnı formát nebo øetìzec verze%n(Pokraèuj kliknutím na OK)
-cz.SetupVersionCheckErrorInvalidChar=Dostupnost nové verze:%nNeplatnı formát nebo øetìzec verze%n(Pokraèuj kliknutím na OK)
+cz.SetupVersionCheckErrorInvalidFormat=Dostupnost novÃ© verze:%nNeplatnÃ½ formÃ¡t nebo Å™etÄ›zec verze%n(PokraÄuj kliknutÃ­m na OK)
+cz.SetupVersionCheckErrorInvalidChar=Dostupnost novÃ© verze:%nNeplatnÃ½ formÃ¡t nebo Å™etÄ›zec verze%n(PokraÄuj kliknutÃ­m na OK)
 
-cz.EnablePreview=Povolit náhledy
+cz.EnablePreview=Povolit nÃ¡hledy
