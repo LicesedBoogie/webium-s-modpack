@@ -1,5 +1,5 @@
 ;Mods
-cz.CleanInstall=Čistá instalace !Doporučujeme! TEST tak co jde to? TEST
+cz.CleanInstall=Čistá instalace !Doporučujeme!
 cz.CleanInstallDesc=Čistá instalace !Doporučujeme! (Vymaže veškerý obsah složky \res_mods\0.9.x, aby nedocházelo k nestabilitě hry.)
 
 cz.NoCleanInstall=Nic nemazat (Nedoporučujme!!!)
