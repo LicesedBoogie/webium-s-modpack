@@ -1,6 +1,6 @@
 <!-- modified by spoter, Kriegstreiber -->
 <crew_extended.xml>
-	<Language>Other</Language> <!-- Tags: [Ru/En/De/Other] ([Other] uses custom strings)-->
+	<Language>De</Language> <!-- Tags: [Ru/En/De/Other] ([Other] uses custom strings)-->
 	<OtherLanguage> <!-- Only needed if Language set to [Other]-->
 		<Custom_string_premium_bonus_on>Premium bonus for exp: Enabled</Custom_string_premium_bonus_on>
 		<Custom_string_premium_bonus_off>Premium bonus for exp: Disabled</Custom_string_premium_bonus_off>

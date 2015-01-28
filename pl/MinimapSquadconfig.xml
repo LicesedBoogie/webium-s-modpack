@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<config.xml>
-  <ActiveByDefault>True</ActiveByDefault>
-  <ActivationHotkey>KEY_F12</ActivationHotkey>
-  <DisableSystemMsg>Chatting on Team channel</DisableSystemMsg>
-  <EnableSystemMsg>Chatting on Platoon channel</EnableSystemMsg>
-</config.xml>

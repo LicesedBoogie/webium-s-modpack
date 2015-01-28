@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<config.xml>
-  <ActiveByDefault>True</ActiveByDefault>
-  <ActivationHotkey>KEY_F12</ActivationHotkey>
-  <DisableSystemMsg>Zprávy pro celý Tým</DisableSystemMsg>
-  <EnableSystemMsg>Zprávy jen pro Četu</EnableSystemMsg>
-</config.xml>
